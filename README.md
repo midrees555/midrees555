@@ -5,15 +5,6 @@
 </p>
 
 ---
----
-
-# Hi there, I'm [Your Name]! 👋
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFjZzZpZ2l2eG1iYjZ0a3RzZ2NqN2Y2c2ZqZzZpZzZpZzZpZzZpZg/xT9C25UNTwfZuk85vG/giphy.gif" width="600">
-</p>
-
----
 
 ### 👨‍💻 About Me
 
