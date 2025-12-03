@@ -44,9 +44,6 @@ This is where I showcase my best work. Each project links to a repository with d
 | 🏥 **AI in Healthcare** | *(Coming Soon)* | A deep learning model to classify chest X-rays for pathology detection. |
 
 ---
-
-
----
 ## 🚀 About Me  
 **Aspiring Data Analyst | Future Tech Entrepreneur | Motivator**
 
