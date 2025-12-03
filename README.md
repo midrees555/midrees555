@@ -5,7 +5,57 @@
 </p>
 
 ---
+---
 
+# Hi there, I'm [Your Name]! 👋
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzFjZzZpZ2l2eG1iYjZ0a3RzZ2NqN2Y2c2ZqZzZpZzZpZzZpZzZpZg/xT9C25UNTwfZuk85vG/giphy.gif" width="600">
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I am an AI and Machine Learning enthusiast with a passion for building intelligent systems that solve real-world problems. I am currently focusing on **Computer Vision** and **Agentic AI**, with a keen interest in their applications in the **Healthcare** domain.
+
+- 🔭 I’m currently working on developing robust, real-time security systems.
+- 🌱 I’m currently learning about Large Language Models (LLMs) and autonomous agent architectures.
+- 👯 I’m looking to collaborate on open-source AI projects.
+- 🤔 I’m looking for help with advanced model optimization techniques.
+- 💬 Ask me about Python, OpenCV, and Deep Learning.
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- ⚡ Fun fact: I believe the future of AI lies in creating systems that can reason and act autonomously.
+
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
+  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a>
+  <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a>
+  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+</p>
+
+---
+
+### 🚀 My Featured Projects
+
+This is where I showcase my best work. Each project links to a repository with detailed documentation.
+
+| Project Domain | Repository & Project Name | Description |
+| :--- | :--- | :--- |
+| 👁️ **Computer Vision** | [**Advanced Face Recognition Security System**](https://github.com/YOUR-USERNAME/Computer-Vision-Projects/tree/main/Advanced-Face-Recognition-System) | A complete security system using YuNet & SFace models with a GUI, email/audio alerts, and robust face tracking. |
+| 🧠 **Agentic AI** | *(Coming Soon)* | An AI agent that autonomously reads, summarizes, and extracts key findings from scientific papers. |
+| 🏥 **AI in Healthcare** | *(Coming Soon)* | A deep learning model to classify chest X-rays for pathology detection. |
+
+---
+
+
+---
 ## 🚀 About Me  
 **Aspiring Data Analyst | Future Tech Entrepreneur | Motivator**
 
