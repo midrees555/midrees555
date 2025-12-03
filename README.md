@@ -64,8 +64,6 @@ This is where I showcase my best work. Each project links to a repository with d
 
 ---
 
----
-
 ### 🚀 My Learning & Development Roadmap
 
 A structured plan to deepen my expertise in AI, from core fundamentals to specialized, real-world applications.
