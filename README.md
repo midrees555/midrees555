@@ -15,7 +15,7 @@ I am an AI and Machine Learning enthusiast with a passion for building intellige
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 🤔 I’m looking for help with advanced model optimization techniques.
 - 💬 Ask me about Python, OpenCV, and Deep Learning.
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com) or [LinkedIn](https://www.linkedin.com/in/your-profile/)
+- 📫 How to reach me: [your.email@example.com](mailto:info.midrees@gmail.com) or [LinkedIn](https://www.linkedin.com/in/midrees555/)
 - ⚡ Fun fact: I believe the future of AI lies in creating systems that can reason and act autonomously.
 
 ---
@@ -51,23 +51,12 @@ This is where I showcase my best work. Each project links to a repository with d
 **Aspiring Data Analyst | Future Tech Entrepreneur | Motivator**
 
 - 🔥 Passionate about solving real-world challenges with data
-- 🐍 Learning Python (intermediate to advanced), MySQL, and Excel
-- 🧠 Building strong foundations in data analytics (exploring pandas & more)
 - 🤖 Moving towards Machine Learning (ML) & Deep Learning (DL)
-- 💡 Dreaming of owning my own tech company
 - 🤝 Teamwork & Communication advocate
 - 📚 Bookworm & personal development enthusiast
 - 🧘 Mental health matters
 
 ---
-
-## 🏅 Badges & Stats
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-09B9A8?style=for-the-badge)
-![Lifelong Learner](https://img.shields.io/badge/Lifelong-Learner-blue?style=for-the-badge)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=midrees555&label=Profile%20views&color=0e75b6&style=flat" alt="midrees555" />
@@ -75,51 +64,44 @@ This is where I showcase my best work. Each project links to a repository with d
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=midrees555&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=midrees555&theme=default&hide_border=true" />
-</p>
-
 ---
 
-## 📚 Personal Learning Roadmap
+### 🚀 My Learning & Development Roadmap
 
-- [x] Python Basics
-- [x] Pandas for Data Analysis
-- [x] Data Visualization (Matplotlib, Seaborn)
-- [ ] Python Intermediate & Advanced Concepts
-- [ ] SQL (MySQL)
-- [ ] Excel for Data
-- [ ] Machine Learning
-- [ ] Deep Learning
-- [ ] Real-world Portfolio Projects
+A structured plan to deepen my expertise in AI, from core fundamentals to specialized, real-world applications.
 
----
+#### Ⅰ. Core Foundations (Current Focus)
+*This phase is about building a rock-solid base in programming and data manipulation.*
+- [x] **Python Programming:** From basics to intermediate concepts (OOP, data structures).
+- [x] **Data Science Toolkit:** Proficient with Pandas, NumPy, Matplotlib, and Seaborn for analysis and visualization.
+- [ ] **Advanced Python:** Mastering decorators, generators, and concurrency for efficient code.
+- [ ] **SQL & Databases:** Essential data querying and management for robust data handling.
+- [ ] **Version Control:** Using Git & GitHub for organized, collaborative development.
 
-## 🌱 Currently Learning
+#### Ⅱ. Machine Learning & Deep Learning Fundamentals (Next Up)
+*This phase covers the core theory and practice of building intelligent models.*
+- [ ] **Classical Machine Learning:** Implementing Regression, Classification, and Clustering algorithms with Scikit-learn.
+- [ ] **Deep Learning Theory:** Understanding Neural Networks, Backpropagation, and model architectures.
+- [ ] **Deep Learning Frameworks:** Building and training models in TensorFlow and/or PyTorch.
+- [ ] **Model Evaluation & Optimization:** Applying the right metrics, hyperparameter tuning, and regularization techniques.
 
-- Advanced Python concepts & best practices
-- SQL for data extraction & analysis
-- Data analytics workflows
-- ML & DL fundamentals
+#### Ⅲ. Specialization Tracks & Portfolio Projects (Future Focus)
+*Applying my skills to solve complex problems in high-impact areas. Each track will culminate in one or more portfolio-worthy projects.*
 
----
+1.  **👁️ Computer Vision:**
+    - [ ] **Objective:** Build systems that can "see" and interpret visual data.
+    - [ ] **Key Skills:** OpenCV, Image Processing, Object Detection (YOLO), Image Segmentation, Facial Recognition.
+    - [ ] **Project Idea:** Real-time medical image analysis or an advanced surveillance system.
 
-## 🌟 Featured Portfolio Projects
-- 💰 **Smart Expense Tracker**<br>
-    A sleek, Python-based CLI app that empowers you to track, analyze, and manage your personal finances with ease and efficiency.
-<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Smart_Finance_Tracker">🔗 Explore Smart Expense Tracker »</a><br>
+2.  **🧠 Agentic AI & NLP:**
+    - [ ] **Objective:** Create autonomous agents and systems that understand and generate human language.
+    - [ ] **Key Skills:** Transformers, LLM APIs (OpenAI), LangChain/LlamaIndex, Vector Databases, Agentic Design Patterns.
+    - [ ] **Project Idea:** An autonomous research agent that analyzes and summarizes scientific papers.
 
-
-- 🧾 **Inventory CLI Manager**<br>
-    Beginner-friendly Python command-line tool to effortlessly add, remove, and review products. Features persistent storage and robust input validation for smooth inventory control.
-<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Inventory_CLI_Manager">🔗 Explore Inventory CLI Manager »</a><br>
-
-- 🗃️ **Dataset Manager**<br>
-    Organize and manage datasets with this intuitive project. See documentation for details, use cases, and how it streamlines your data workflows.
-<br><a href="https://github.com/midrees555/Portfolio_Projects/tree/main/Dataset_Manager">🔗 Explore Dataset Manager »</a><br>
+3.  **🏥 AI in Healthcare (Domain Application):**
+    - [ ] **Objective:** Apply CV and NLP techniques to solve challenges in the healthcare domain.
+    - [ ] **Key Skills:** DICOM/NIfTI file handling, Clinical NLP, Federated Learning, Model Interpretability (XAI).
+    - [ ] **Project Idea:** A diagnostic support tool for analyzing patient scans or clinical notes.
 
 ---
 
@@ -143,14 +125,6 @@ This is where I showcase my best work. Each project links to a repository with d
 <p align="center">
   <a href="https://www.linkedin.com/in/midrees555/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:info.midrees@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/midrees555"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-<!-- Add your future portfolio/project links below! -->
-
-<!--
-## 🚀 Portfolio Projects
-- *(Coming soon!)*  
--->
