@@ -15,7 +15,7 @@ I am an AI and Machine Learning enthusiast with a passion for building intellige
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 🤔 I’m looking for help with advanced model optimization techniques.
 - 💬 Ask me about Python, OpenCV, and Deep Learning.
-- 📫 How to reach me: [your.email@example.com](mailto:info.midrees@gmail.com) or [LinkedIn](https://www.linkedin.com/in/midrees555/)
+- 📫 How to reach me: [Message Me](mailto:info.midrees@gmail.com) or [LinkedIn](https://www.linkedin.com/in/midrees555/)
 - ⚡ Fun fact: I believe the future of AI lies in creating systems that can reason and act autonomously.
 
 ---
@@ -39,7 +39,7 @@ This is where I showcase my best work. Each project links to a repository with d
 
 | Project Domain | Repository & Project Name | Description |
 | :--- | :--- | :--- |
-| 👁️ **Computer Vision** | [**Advanced Face Recognition Security System**](https://github.com/YOUR-USERNAME/Computer-Vision-Projects/tree/main/Advanced-Face-Recognition-System) | A complete security system using YuNet & SFace models with a GUI, email/audio alerts, and robust face tracking. |
+| 👁️ **Computer Vision** | [**Advanced Face Recognition Security System**](https://github.com/midrees555/Computer-Vision-Projects) | A complete security system using YuNet & SFace models with a GUI, email/audio alerts, and robust face tracking. |
 | 🧠 **Agentic AI** | *(Coming Soon)* | An AI agent that autonomously reads, summarizes, and extracts key findings from scientific papers. |
 | 🏥 **AI in Healthcare** | *(Coming Soon)* | A deep learning model to classify chest X-rays for pathology detection. |
 
