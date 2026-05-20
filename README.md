@@ -1,125 +1,157 @@
-# M_Idrees_Portfolio
-<!-- Profile Banner (Add your own or use a default) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09B9A8&width=435&lines=Hi,+I'm+MUHAMMAD+IDREES+%F0%9F%91%8B;Aspiring+Data+Analyst+%26+Future+Tech+Entrepreneur;Open+to+Work+%7C+Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=09B9A8&width=600&lines=Hi%2C+I'm+MUHAMMAD+IDREES+%F0%9F%91%8B;Web+Scraping+%E2%86%92+Data+Pipelines+%E2%86%92+Agentic+AI;Building+Autonomous+Systems+from+the+Ground+Up;One+Scrape+at+a+Time+%F0%9F%95%B7%EF%B8%8F" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/midrees555/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:info.midrees@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=midrees555&label=Profile%20Views&color=09B9A8&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an AI and Machine Learning enthusiast with a passion for building intelligent systems that solve real-world problems. I am currently focusing on **Computer Vision** and **Agentic AI**, with a keen interest in their applications in the **Healthcare** domain.
+I'm an aspiring **AI Automation Engineer** on a focused, ground-up journey toward building **Agentic AI systems**. My current chapter is dedicated entirely to **Web Scraping** — because powerful AI agents need reliable, real-world data, and I'm learning to collect it from the source.
 
-- 🔭 I’m currently working on developing robust, real-time security systems.
-- 🌱 I’m currently learning about Large Language Models (LLMs) and autonomous agent architectures.
-- 👯 I’m looking to collaborate on open-source AI projects.
-- 🤔 I’m looking for help with advanced model optimization techniques.
-- 💬 Ask me about Python, OpenCV, and Deep Learning.
-- 📫 How to reach me: [Message Me](mailto:info.midrees@gmail.com) or [LinkedIn](https://www.linkedin.com/in/midrees555/)
-- ⚡ Fun fact: I believe the future of AI lies in creating systems that can reason and act autonomously.
+I'm not jumping ahead. I'm building each layer deliberately:  
+**Collect the data → Structure it → Automate it → Feed it to agents.**
+
+- 🔭 **Currently:** Mastering web scraping — static pages, dynamic content, and real-world data pipelines
+- 🧭 **Next:** Connecting scraped data to LLM-powered workflows and tool-calling agents
+- 🎯 **End goal:** Designing autonomous multi-agent systems that research, reason, and act independently
+- 💬 **Ask me about:** Python, `BeautifulSoup`, `Selenium`, `Playwright`, data extraction strategies
+- ⚡ **My philosophy:** *"Smart agents need smart data. Master the source before the model."*
 
 ---
 
-### 🛠️ My Tech Stack
+## 🗺️ My Journey: Web Scraping → Agentic AI
 
+```
+[Web Scraping] ──► [Data Pipelines] ──► [LLM Integration] ──► [Agentic AI]
+     ✅ Now              🔄 Next              📋 Planned           🎯 Goal
+```
+
+---
+
+### ✅ Phase 1 — Web Scraping (Current Focus)
+
+*Learning to collect clean, structured, real-world data at scale.*
+
+- [x] HTML & CSS fundamentals for scraping
+- [x] `requests` + `BeautifulSoup` — static page parsing
+- [x] `Selenium` — handling JavaScript-rendered content
+- [ ] `Playwright` — modern async browser automation
+- [ ] `Scrapy` — production-grade, large-scale crawling framework
+- [ ] Pagination, infinite scroll, and form submission handling
+- [ ] Rotating proxies, headers, and session management
+- [ ] Anti-bot bypass techniques (Cloudflare, CAPTCHAs, rate limits)
+- [ ] Scraping REST APIs and GraphQL endpoints
+- [ ] Async scraping with `asyncio` + `aiohttp` for speed
+
+---
+
+### 🔄 Phase 2 — Data Pipelines & Automation (Next)
+
+*Turning raw scraped data into structured, queryable, automated systems.*
+
+- [ ] Data cleaning & transformation with Python
+- [ ] Storing structured data: CSV → SQLite → PostgreSQL
+- [ ] Unstructured/document storage with MongoDB
+- [ ] Scheduling and automating scrapers (APScheduler, Cron)
+- [ ] Building basic ETL pipelines end-to-end
+
+---
+
+### 📋 Phase 3 — LLM Integration (Planned)
+
+*Putting real-world data in front of large language models.*
+
+- [ ] Calling LLM APIs: OpenAI, Anthropic (Claude)
+- [ ] Prompt engineering with dynamic, scraped context
+- [ ] Retrieval-Augmented Generation (RAG) fundamentals
+- [ ] Vector databases: Chroma, FAISS, Pinecone
+- [ ] Structured outputs and tool/function calling
+
+---
+
+### 🎯 Phase 4 — Agentic AI Systems (The Goal)
+
+*Building autonomous agents that can research, decide, and act.*
+
+- [ ] LangChain & LangGraph agent frameworks
+- [ ] Multi-step reasoning and planning loops
+- [ ] Agent memory: short-term, long-term, episodic
+- [ ] Tool use: web search, code execution, database queries
+- [ ] Multi-agent pipelines: Researcher → Analyst → Writer
+- [ ] Deploying agents with real-world integrations
+
+---
+
+## 🛠️ Current Tech Stack
+
+### Scraping & Automation
 <p align="left">
-  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/> </a>
-  <a href="https://opencv.org/" target="_blank"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/> </a>
-  <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requests-09B9A8?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Data & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### Coming Soon — LLM & Agent Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-09B9A8?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_DBs-FF6B6B?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 My Featured Projects
+## 🚀 Active Projects
 
-This is where I showcase my best work. Each project links to a repository with detailed documentation.
-
-| Project Domain | Repository & Project Name | Description |
-| :--- | :--- | :--- |
-| 👁️ **Computer Vision** | [**Advanced Face Recognition Security System**](https://github.com/midrees555/Computer-Vision-Projects) | A complete security system using YuNet & SFace models with a GUI, email/audio alerts, and robust face tracking. |
-| 🧠 **Agentic AI** | *(Coming Soon)* | An AI agent that autonomously reads, summarizes, and extracts key findings from scientific papers. |
-| 🏥 **AI in Healthcare** | *(Coming Soon)* | A deep learning model to classify chest X-rays for pathology detection. |
+| Project | Stage | Description |
+| :--- | :---: | :--- |
+| 🕸️ **Real-World Scraping Projects** | ✅ Active | Series of scrapers targeting news, jobs, e-commerce, and public APIs — building real portfolio work while learning |
+| 🔄 **Scraped Data → LLM Pipeline** | 🔄 In Design | Prototype pipeline: scrape → clean → feed to Claude/GPT → structured insight output |
+| 🤖 **Autonomous Research Agent** | 📋 Planned | Agent that scrapes, reads, and synthesizes information from multiple web sources without human prompting |
 
 ---
-## 🚀 About Me  
-**Aspiring Data Analyst | Future Tech Entrepreneur | Motivator**
 
-- 🔥 Passionate about solving real-world challenges with data
-- 🤖 Moving towards Machine Learning (ML) & Deep Learning (DL)
-- 🤝 Teamwork & Communication advocate
-- 📚 Bookworm & personal development enthusiast
-- 🧘 Mental health matters
-
----
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=midrees555&label=Profile%20views&color=0e75b6&style=flat" alt="midrees555" />
+  <img src="https://github-readme-stats.vercel.app/api?username=midrees555&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=midrees555&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
----
-
-### 🚀 My Learning & Development Roadmap
-
-A structured plan to deepen my expertise in AI, from core fundamentals to specialized, real-world applications.
-
-#### Ⅰ. Core Foundations (Current Focus)
-*This phase is about building a rock-solid base in programming and data manipulation.*
-- [x] **Python Programming:** From basics to intermediate concepts (OOP, data structures).
-- [x] **Data Science Toolkit:** Proficient with Pandas, NumPy, Matplotlib, and Seaborn for analysis and visualization.
-- [ ] **Advanced Python:** Mastering decorators, generators, and concurrency for efficient code.
-- [ ] **SQL & Databases:** Essential data querying and management for robust data handling.
-- [ ] **Version Control:** Using Git & GitHub for organized, collaborative development.
-
-#### Ⅱ. Machine Learning & Deep Learning Fundamentals (Next Up)
-*This phase covers the core theory and practice of building intelligent models.*
-- [ ] **Classical Machine Learning:** Implementing Regression, Classification, and Clustering algorithms with Scikit-learn.
-- [ ] **Deep Learning Theory:** Understanding Neural Networks, Backpropagation, and model architectures.
-- [ ] **Deep Learning Frameworks:** Building and training models in TensorFlow and/or PyTorch.
-- [ ] **Model Evaluation & Optimization:** Applying the right metrics, hyperparameter tuning, and regularization techniques.
-
-#### Ⅲ. Specialization Tracks & Portfolio Projects (Future Focus)
-*Applying my skills to solve complex problems in high-impact areas. Each track will culminate in one or more portfolio-worthy projects.*
-
-1.  **👁️ Computer Vision:**
-    - [ ] **Objective:** Build systems that can "see" and interpret visual data.
-    - [ ] **Key Skills:** OpenCV, Image Processing, Object Detection (YOLO), Image Segmentation, Facial Recognition.
-    - [ ] **Project Idea:** Real-time medical image analysis or an advanced surveillance system.
-
-2.  **🧠 Agentic AI & NLP:**
-    - [ ] **Objective:** Create autonomous agents and systems that understand and generate human language.
-    - [ ] **Key Skills:** Transformers, LLM APIs (OpenAI), LangChain/LlamaIndex, Vector Databases, Agentic Design Patterns.
-    - [ ] **Project Idea:** An autonomous research agent that analyzes and summarizes scientific papers.
-
-3.  **🏥 AI in Healthcare (Domain Application):**
-    - [ ] **Objective:** Apply CV and NLP techniques to solve challenges in the healthcare domain.
-    - [ ] **Key Skills:** DICOM/NIfTI file handling, Clinical NLP, Federated Learning, Model Interpretability (XAI).
-    - [ ] **Project Idea:** A diagnostic support tool for analyzing patient scans or clinical notes.
 
 ---
 
 <details>
-  <summary>✨ Fun Facts & Motivation</summary>
-  <ul>
-    <li>📖 I love reading books on tech, psychology, and personal growth</li>
-    <li>🧑‍🤝‍🧑 Helping and motivating thousands of enthusiasts to grow</li>
-    <li>📰 Always staying updated with new trends and technologies</li>
-    <li>🧘 Prioritizing mental health and well-being</li>
-  </ul>
-  <blockquote>
-    <b>“Building the future, one dataset at a time.”</b>
-  </blockquote>
+<summary>✨ A Little More About Me</summary>
+
+- 📖 Avid reader — tech, psychology, and personal growth
+- 🧑‍🤝‍🧑 Passionate about helping fellow learners stay consistent
+- 🧘 Mental health advocate — sustainable progress over burnout
+- 📰 Always tracking what's new in AI tooling and agent frameworks
+
+> **"The best AI systems aren't built in a day. They're built layer by layer, with intention."**
+
 </details>
 
 ---
 
-## 🤝 Let’s Connect!
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/midrees555/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:info.midrees@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <i>Open to collaborations, open-source contributions, and conversations about AI automation.</i><br/>
+  <b>Let's build something that actually works.</b>
 </p>
-
----
